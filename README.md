@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on penetration testing tools and scripts, automation, and hardware hacking tools.<br>👯 I’m looking to collaborate on cybersecurity-related projects (Hardware or Software)<br>🤝 I’m looking for help with f{to_be_determined}<br>🌱 I’m currently learning Python, MicroPython, Scripting, Scanning, Automation, Hardware Hacking Prototypes.<br>💬 Ask me about anything and I will do my best to answer... If I don't know we can figure it out together.<br>⚡ Fun fact: Douglas Engelbart developed the first computer mouse prototype at SRI in 1964. It was made out of wood!
+🔭 I’m currently working on penetration testing tools and scripts, automation, and hardware hacking tools.<br>👯 I’m looking to collaborate on cybersecurity-related projects (Hardware or Software)<br>🤝 I’m looking for help with f{to_be_determined}<br>🌱 I’m currently learning Python, Golang, MicroPython, Scripting, Scanning, Automation, Hardware Hacking Prototypes.<br>💬 Ask me about anything and I will do my best to answer... If I don't know we can figure it out together.<br>⚡ Fun fact: Douglas Engelbart developed the first computer mouse prototype at SRI in 1964. It was made out of wood!
 
 
 ## 🌐 Socials:
